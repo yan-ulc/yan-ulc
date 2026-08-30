@@ -16,20 +16,7 @@
 
 <br/>
 
-```
 
-  ┌──────────────────────────────────────────────────────────────┐
-  │  ryan@portfolio:~$ whoami                                      │
-  └──────────────────────────────────────────────────────────────┘
-
-  Fresh graduate in Computer Engineering (Universitas Syiah Kuala)
-  with 2+ years of hands-on experience building web apps, AI systems,
-  and machine learning products.
-
-  I like building things end-to-end — from designing interfaces and
-  backend APIs, to training models, to wiring LLMs into real products.
-
-```
 
 <br/>
 
