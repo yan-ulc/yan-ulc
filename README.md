@@ -1,151 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Muhammad%20Ryan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,100:6366f1&height=280&section=header&text=Muhammad%20Ryan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Machine%20Learning%20Engineer&descAlignY=54&descSize=19&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/yan-ulc">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%C2%B7+Machine+Learning+Engineer;Next.js+%2F+TypeScript+%C2%B7+Python+%C2%B7+LLMs+%C2%B7+AI+Agents;Building+end-to-end%2C+from+UI+to+model+weights;Fresh+Graduate+%40+Universitas+Syiah+Kuala&font=Fira+Code&center=true&width=650&height=45&color=6366F1&vCenter=true&size=22&pause=1800&duration=3000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%C2%B7+Machine+Learning+Engineer;Next.js+%2F+Django+%2F+TypeScript+%2F+Python;Building+AI+Agents%2C+RAG+Systems+%26+LLM+Products;Fresh+Graduate+%40+Universitas+Syiah+Kuala&font=Fira+Code&center=true&width=680&height=45&color=A5B4FC&vCenter=true&size=22&pause=1800&duration=3000" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-muhammad7135%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad7135@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yan--ulc-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yan-ulc)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge)](mailto:muhammad7135@gmail.com)
+<a href="mailto:muhammad7135@gmail.com"><img src="https://img.shields.io/badge/Email-muhammad7135%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yan-ulc"><img src="https://img.shields.io/badge/GitHub-yan--ulc-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:muhammad7135@gmail.com"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yan-ulc&color=6366f1&style=flat-square&label=Profile+Views"/>
 
 </div>
 
 <br/>
 
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
 
+### `👋` About Me
+
+I'm a fresh graduate in Computer Engineering from **Universitas Syiah Kuala**, focused on building end-to-end products — from pixel-perfect frontends to trained model weights and the cloud infrastructure that ships them. Over the past two years I've shipped **AI-powered SaaS products, RAG pipelines, and production MLOps stacks**, and worked as an AI/Software Development Intern building conversational AI for government digital services.
+
+```yaml
+role:      Full-Stack Engineer / ML Engineer
+based_in:  Aceh, Indonesia
+building:  AI agents, LLM products, scalable REST APIs
+learning:  Distributed systems, advanced MLOps
+open_to:   Full-time roles · Freelance · Collaboration
+```
+
+</td>
+<td width="30%" valign="top">
+
+### `📌` Snapshot
+
+| | |
+|---|---|
+| 🎓 | S1 Teknik Komputer |
+| 🏫 | Univ. Syiah Kuala |
+| 💼 | 2+ yrs project exp. |
+| 🌍 | Aceh, Indonesia |
+| ✅ | Fresh Graduate |
+| 🟢 | Open to Work |
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## `📊` Quick Facts
+## `🧰` Tech Stack
 
 <div align="center">
 
-| Experience | Focus | Education | Status |
-|:---:|:---:|:---:|:---:|
-| **2+ Years** Project Experience | **Full-Stack · AI · ML** | **S1 Teknik Komputer**<br/>Universitas Syiah Kuala | **Fresh Graduate**<br/>Open to Work |
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&theme=dark" />
+
+<br/><br/>
+
+**Backend & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,postgres,firebase&theme=dark" />
+<br/>
+<sub>+ RESTful API design & authentication (JWT / OAuth2)</sub>
+
+<br/><br/>
+
+**Machine Learning & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow&theme=dark" />
+<br/>
+<sub>+ Hugging Face Transformers · LLMs · RAG · AI Agents · Prompt Engineering</sub>
+
+<br/><br/>
+
+**Cloud, DevOps & MLOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kafka,git,githubactions&theme=dark" />
+<br/>
+<sub>+ AWS S3 · MLflow · MinIO · Prefect</sub>
 
 </div>
 
 <br/>
 
-## `🛠️` Technical Toolkit
+## `⭐` Featured Project
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
-**Full-Stack Development**
+### 🧠 [Flow AI](https://flow-ai-time-and-money-management.vercel.app) — AI-Powered Time & Money Management
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+An AI-powered personal management platform that helps users organize their schedule, manage finances, and make smarter day-to-day decisions through conversational AI.
 
-**Machine Learning / AI**
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-6366F1?style=flat-square"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+**[🔗 Live Demo](https://flow-ai-time-and-money-management.vercel.app)**
 
-**Generative AI**
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-14b8a6?style=for-the-badge)
-
-**Backend / Data**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**MLOps / Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## `🚀` Projects & Explorations
+## `🚀` More Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🧠 [Flow AI](https://flow-ai-time-and-money-management.vercel.app)
-**AI / Productivity**
-
-An AI-powered personal management platform to help users organize time, manage money, and make better day-to-day decisions.
-
-`Next.js` `TypeScript` `AI` `LLMs` `Backend` `Database`
-
+<h3>🎓 <a href="https://thinkit.cubix.codes">ThinkIT AI</a></h3>
+<i>AI · Education</i>
+<br/><br/>
+A collaborative learning platform where groups discuss topics, ask questions, and use AI assistance as part of the learning process.
+<br/><br/>
+<code>Next.js</code> <code>TypeScript</code> <code>AI</code> <code>Backend</code>
 </td>
 <td width="50%" valign="top">
-
-### 🎓 [ThinkIT AI](https://thinkit.cubix.codes)
-**AI / Education**
-
-A collaborative learning platform where groups discuss topics, ask questions, and use AI assistance as part of learning.
-
-`Next.js` `TypeScript` `AI` `Backend`
-
+<h3>🔥 <a href="https://roastle-kzegejcax-yan-ulcs-projects.vercel.app/landing">Roastle AI</a></h3>
+<i>AI · Productivity</i>
+<br/><br/>
+An AI-powered habit tracking platform that helps users build consistent routines and gain insights from daily progress.
+<br/><br/>
+<code>Next.js</code> <code>TypeScript</code> <code>AI</code> <code>LLMs</code>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🔥 [Roastle AI](https://roastle-kzegejcax-yan-ulcs-projects.vercel.app/landing)
-**AI / Productivity**
-
-An AI-powered habit tracking platform to help users build consistent routines and gain insights from their daily progress.
-
-`Next.js` `TypeScript` `AI` `LLMs`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗂️ [Colabo Board](https://colabo-board-rivr.vercel.app)
-**Collaboration / Productivity**
-
+<h3>🗂️ <a href="https://colabo-board-rivr.vercel.app">Colabo Board</a></h3>
+<i>Collaboration · Productivity</i>
+<br/><br/>
 A collaborative digital workspace turning sticky notes into a shared space for organizing ideas, tasks, and discussions.
-
-`Next.js` `TypeScript` `Backend` `Database`
-
+<br/><br/>
+<code>Next.js</code> <code>TypeScript</code> <code>Backend</code> <code>Database</code>
+</td>
+<td width="50%" valign="top">
+<h3>📄 <a href="https://chat-pdf-omega-flax.vercel.app">PDF Chatbot</a></h3>
+<i>Generative AI · RAG</i>
+<br/><br/>
+An AI-powered document assistant that lets users interact with PDF content through natural-language questions.
+<br/><br/>
+<code>Next.js</code> <code>TypeScript</code> <code>LLMs</code> <code>RAG</code>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 📄 [PDF Chatbot](https://chat-pdf-omega-flax.vercel.app)
-**Generative AI / RAG**
-
-An AI-powered document assistant letting users interact with PDF content through natural-language questions.
-
-`Next.js` `TypeScript` `AI` `LLMs` `RAG`
-
+<h3>☁️ Media Pipeline API</h3>
+<i>Backend · Cloud Storage</i>
+<br/><br/>
+A Django REST Framework service handling authenticated file uploads with AWS S3-backed storage, signed URLs, and async processing.
+<br/><br/>
+<code>Django</code> <code>REST API</code> <code>AWS S3</code> <code>PostgreSQL</code>
 </td>
 <td width="50%" valign="top">
-
-### 🇮🇩 Indonesian Sexual Harassment Detection
-**Machine Learning / NLP**
-
-Transformer-based text classification research comparing IndoBERT and XLM-RoBERTa for detecting sexual harassment in Indonesian social media content.
-
-<img src="https://img.shields.io/badge/Accuracy-92.50%25-22c55e?style=flat-square"/> <img src="https://img.shields.io/badge/F1_Score-92.61%25-22c55e?style=flat-square"/>
-
-`Python` `PyTorch` `Transformers` `IndoBERT` `XLM-RoBERTa` `Scikit-learn`
-
+<h3>➕ More on GitHub</h3>
+<i>Explore all repositories</i>
+<br/><br/>
+More experiments in ML, backend systems, and full-stack products are being added regularly — check the full list on my profile.
+<br/><br/>
+<a href="https://github.com/yan-ulc?tab=repositories">🔗 View all repos</a>
 </td>
 </tr>
 </table>
@@ -154,53 +175,65 @@ Transformer-based text classification research comparing IndoBERT and XLM-RoBERT
 
 ## `💼` Experience
 
-```
-2026        AI / Software Development Intern — Diskominfotik Banda Aceh
-   │        • Developed an AI chatbot for the Sinergi website, providing an
-   │          interactive conversational interface for users
-   │        • Integrated AI and software solutions for real-world web deployment
-   │
-2023–2026   Independent Software & ML Developer — Self-Directed Projects
-   │        • Built multiple independent projects spanning ML, full-stack web
-   │          development, and AI products
-   │        • Engineered a comparative NLP classification system achieving
-   │          92.50% accuracy on Indonesian social media data
-   └──────  • Architected end-to-end MLOps pipelines using Kafka, Docker,
-              MLflow, and PostgreSQL
-```
+<table>
+<tr>
+<td width="15%" valign="top"><b>2026</b></td>
+<td width="85%">
+
+**AI / Software Development Intern** · Diskominfotik Banda Aceh
+- Developed an AI chatbot for the Sinergi website, providing an interactive conversational interface for citizens
+- Integrated AI and software solutions for real-world web deployment
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>2023 – 2026</b></td>
+<td>
+
+**Independent Software & ML Developer** · Self-Directed Projects
+- Built multiple independent products spanning ML, full-stack web development, and AI-powered applications
+- Designed and shipped REST APIs with Django and FastAPI, backed by AWS S3 for scalable file and media storage
+- Architected end-to-end MLOps pipelines using Kafka, Docker, MLflow, and PostgreSQL
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## `📈` GitHub Stats
+## `📈` GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yan-ulc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-ulc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yan-ulc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-ulc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yan-ulc&theme=tokyonight&hide_border=true&background=0D1117&ring=A5B4FC&fire=A5B4FC&currStreakLabel=A5B4FC" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yan-ulc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A5B4FC&line=A5B4FC&point=ffffff" width="97%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yan-ulc&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
+<img src="https://github-profile-trophy.vercel.app/?username=yan-ulc&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
 
 </div>
 
 <br/>
 
-## `📬` Get In Touch
+## `📬` Let's Connect
 
 <div align="center">
 
-**Let's talk.**
-Open for new opportunities, collaborations, and freelance projects.
-Whether you have a question or just want to say hi, I'll try my best to get back to you!
+**Open for new opportunities, collaborations, and freelance projects.**
+Have a question, want to collaborate, or just want to say hi? I'll get back to you as soon as I can.
 
-[![Gmail](https://img.shields.io/badge/-muhammad7135@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammad7135@gmail.com)
-[![GitHub](https://img.shields.io/badge/-@yan--ulc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yan-ulc)
+<a href="mailto:muhammad7135@gmail.com"><img src="https://img.shields.io/badge/-muhammad7135@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yan-ulc"><img src="https://img.shields.io/badge/-@yan--ulc-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-<sub>© 2026 Muhammad Ryan. All rights reserved.</sub>
+<sub>© 2026 Muhammad Ryan · All rights reserved.</sub>
 
 </div>
