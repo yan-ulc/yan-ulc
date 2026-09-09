@@ -205,10 +205,14 @@ More experiments in ML, backend systems, and full-stack products are being added
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yan-ulc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-ulc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yan-ulc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=c9d1d9&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-ulc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=c9d1d9&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yan-ulc&theme=tokyonight&hide_border=true&background=0D1117&ring=A5B4FC&fire=A5B4FC&currStreakLabel=A5B4FC" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=yan-ulc&theme=tokyonight&hide_border=true&background=0D1117&ring=A5B4FC&fire=A5B4FC&currStreakLabel=A5B4FC" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yan-ulc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A5B4FC&line=A5B4FC&point=ffffff" width="97%"/>
 
@@ -218,17 +222,20 @@ More experiments in ML, backend systems, and full-stack products are being added
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## `📬` Let's Connect
 
 <div align="center">
 
 **Open for new opportunities, collaborations, and freelance projects.**
+<br/>
 Have a question, want to collaborate, or just want to say hi? I'll get back to you as soon as I can.
 
-<a href="mailto:muhammad7135@gmail.com"><img src="https://img.shields.io/badge/-muhammad7135@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/yan-ulc"><img src="https://img.shields.io/badge/-@yan--ulc-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br/><br/>
+
+<a href="mailto:muhammad7135@gmail.com"><img src="https://img.shields.io/badge/-muhammad7135@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/yan-ulc"><img src="https://img.shields.io/badge/-@yan--ulc-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
