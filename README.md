@@ -205,8 +205,8 @@ More experiments in ML, backend systems, and full-stack products are being added
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yan-ulc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=c9d1d9&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-ulc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=c9d1d9&cache_seconds=1800" />
+<img width="49%" src="https://githubreadmestatsfast.vercel.app/api?username=yan-ulc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=c9d1d9" />
+<img width="49%" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=yan-ulc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=c9d1d9" />
 
 <br/>
 
@@ -219,28 +219,5 @@ More experiments in ML, backend systems, and full-stack products are being added
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=yan-ulc&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
-
-</div>
-
-<br/><br/>
-
-## `📬` Let's Connect
-
-<div align="center">
-
-**Open for new opportunities, collaborations, and freelance projects.**
-<br/>
-Have a question, want to collaborate, or just want to say hi? I'll get back to you as soon as I can.
-
-<br/><br/>
-
-<a href="mailto:muhammad7135@gmail.com"><img src="https://img.shields.io/badge/-muhammad7135@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/yan-ulc"><img src="https://img.shields.io/badge/-@yan--ulc-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-<sub>© 2026 Muhammad Ryan · All rights reserved.</sub>
 
 </div>
